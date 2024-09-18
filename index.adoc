@@ -1,5 +1,5 @@
-= Doc Header
-:Doc subtitle
+= This file was written in AsciiDoc
+: It was converted to HTML by AsciiDoctor
 
 This is a paragraph
 
@@ -12,3 +12,8 @@ print('Hello, world!')
 ----
 cd ~/ && exit
 ----
+
+* This is a list
+* Here is another point
+
+Wow! http://asciidoc.org/[AsciiDoc] is so cool!
