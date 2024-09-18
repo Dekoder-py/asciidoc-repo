@@ -7,3 +7,8 @@ This is a paragraph
 ----
 print('Hello, world!')
 ----
+
+[, zsh]
+----
+cd ~/ && exit
+----
