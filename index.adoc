@@ -1,19 +1,15 @@
-= This file was written in AsciiDoc
-: It was converted to HTML by AsciiDoctor
+= Welcom to my first AsciiDoc! 
+This file was written in AsciiDoc
 
-This is a paragraph
+It was converted to HTML by http://asciidoctor.org/[AsciiDoctor] and is being displayed via http://github.com[GitHub] pages.
+
 
 [, python]
 ----
 print('Hello, world!')
 ----
 
-[, zsh]
-----
-cd ~/ && exit
-----
-
-* This is a list
-* Here is another point
+* This is a list.
+* Here is another point.
 
 Wow! http://asciidoc.org/[AsciiDoc] is so cool!
