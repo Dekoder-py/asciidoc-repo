@@ -1,4 +1,4 @@
-= Welcom to my first AsciiDoc! 
+= Welcome to my first AsciiDoc! 
 This file was written in AsciiDoc
 
 It was converted to HTML by http://asciidoctor.org/[AsciiDoctor] and is being displayed via http://github.com[GitHub] pages.
